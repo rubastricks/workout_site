@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.30fa93b2.css",
+    "main.js": "/static/js/main.fd635152.js",
+    "static/media/workout.mp4": "/static/media/workout.bf256ae113bb6b3052ec.mp4",
+    "static/media/banner.png": "/static/media/banner.36c1677c005953297170.png",
+    "static/media/Logo.png": "/static/media/Logo.6d01d16e1f2b19cb1f4a.png",
+    "static/media/overweight.png": "/static/media/overweight.d289cb46e9633c985346.png",
+    "static/media/healthy.png": "/static/media/healthy.9343f93bce37d792e548.png",
+    "static/media/underweight.png": "/static/media/underweight.59ea1528911569173fa9.png",
+    "static/media/gym.png": "/static/media/gym.6e701417c428e2fbc267.png",
+    "index.html": "/index.html",
+    "main.30fa93b2.css.map": "/static/css/main.30fa93b2.css.map",
+    "main.fd635152.js.map": "/static/js/main.fd635152.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30fa93b2.css",
+    "static/js/main.fd635152.js"
+  ]
+}
